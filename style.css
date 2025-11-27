@@ -1,1 +1,14 @@
+.info-box {
+    background-color: #111; /* black */
+    border-left: 5px solid #D4AF37; /* gold accent */
+    color: white;
+    padding: 20px;
+    width: 280px;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
 
+.info-box h2 {
+    color: #D4AF37; /* gold */
+    margin-top: 0;
+}
